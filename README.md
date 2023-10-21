@@ -2,6 +2,6 @@
 
 # Integrantes:
 Matias Pereira Gutierrez
-Christian Chandia
+Christian Chandia Nova
 Felipe Perez Diaz
 Anays Mansilla Ramirez
